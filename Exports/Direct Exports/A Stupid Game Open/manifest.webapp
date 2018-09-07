@@ -1,0 +1,21 @@
+﻿{
+	"name": "Circle Escape",
+	"description": "this is just a demo game.",
+	"version": "1.0.0.0",
+	"launch_path": "/index.html",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/icon-16.png",
+		"32": "/icon-32.png",
+		"128": "/icon-128.png",
+		"256": "/icon-256.png"
+	},
+	"developer": {
+		"name": "Sayed Erfan Arefin",
+		"url": "http://fb.com/erfanarefin"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"fullscreen": "true"
+}
