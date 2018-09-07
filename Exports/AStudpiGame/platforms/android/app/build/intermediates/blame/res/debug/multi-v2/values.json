@@ -4,20 +4,35 @@
             "outputFile": "C:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "164,55,105",
-                        "endColumns": "63,49,58",
-                        "endOffsets": "223,100,159"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "2,3,4",
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,50,-1",
+                        "endOffsets": "-1,101,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
                         "startColumns": "4,4,4",
-                        "startOffsets": "55,119,169",
-                        "endColumns": "63,49,58",
-                        "endOffsets": "114,164,223"
+                        "startOffsets": "112,176,227",
+                        "endColumns": "63,50,58",
+                        "endOffsets": "171,222,281"
                     }
                 }
             ]
