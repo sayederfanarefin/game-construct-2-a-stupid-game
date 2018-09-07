@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.erfan.arefin" version="1.0.0.0">
+
+	<name>Circle Escape</name>
+	<description>this is just a demo game.</description>
+	<author href="http://fb.com/erfanarefin" email="erfan.arefin@hotmail.com">Sayed Erfan Arefin</author>
+
+	<icon src="icon-128.png" width="128" height="128" />
+	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
+
+	<preference name="permissions" value="none"/>
+	<preference name="android-targetSdkVersion" value="21" />
+
+	<feature name="http://api.phonegap.com/1.0/network"/>
+	<gap:plugin name="org.apache.cordova.media" />
+
+	<preference name="orientation" value="default" />
+	<preference name="fullscreen" value="true" />
+	<gap:config-file platform="ios" parent="UIStatusBarHidden"><true/></gap:config-file>
+	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance"><false/></gap:config-file>
+	<preference name="target-device" value="universal" />
+
+	<!-- Optional splash screen image, e.g.: -->
+	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
+
+</widget>
