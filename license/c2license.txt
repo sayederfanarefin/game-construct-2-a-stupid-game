@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: erfan
+Email: erfanjordison@gmail.com
+Comment: 
+Timestamp: 1536345424
+Hash: 0C5A3B50C108B37779CD445BCFA7A6E81930756DE40CE02
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
