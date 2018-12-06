@@ -1,4 +1,4 @@
-#Fri Sep 07 23:27:18 BDT 2018
-base.0=C\:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+#Mon Nov 19 10:06:18 CET 2018
+base.0=C\:\\Users\\Erfan\\Desktop\\a-stupid-game\\Exports\\AStudpiGame\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 renamed.0=classes.dex
-file.0=C\:\\Users\\Sayed Erfan Arefin\\Desktop\\fucking game\\Exports\\AStudpiGame\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
+file.0=C\:\\Users\\Erfan\\Desktop\\a-stupid-game\\Exports\\AStudpiGame\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
