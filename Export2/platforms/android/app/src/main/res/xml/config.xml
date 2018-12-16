@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="info.sayederfanarefin.spinningescape" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>Spinning Escape</name>
+    <description>Escape from the spining circles!</description>
+    <author email="erfanjordison@gmail.com" href="http://sayederfanarefin.info">Sayed Erfan Arefin</author>
+    <icon height="128" src="icon-128.png" width="128" />
+    <icon gap:role="default" height="256" src="icon-256.png" width="256" />
+    <gap:config-file parent="UIStatusBarHidden" platform="ios">
+        <true />
+    </gap:config-file>
+    <gap:config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios">
+        <false />
+    </gap:config-file>
+    <gap:plugin name="com.cranberrygame.phonegap.plugin.ad.admob" source="plugins.cordova.io" />
+    <access origin="*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="permissions" value="none" />
+    <preference name="android-targetSdkVersion" value="28" />
+    <preference name="orientation" value="default" />
+    <preference name="fullscreen" value="true" />
+    <preference name="deployment-target" value="8.0" />
+    <preference name="android-minSdkVersion" value="22" />
+</widget>

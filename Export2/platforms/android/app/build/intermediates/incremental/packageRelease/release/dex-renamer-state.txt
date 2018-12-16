@@ -1,0 +1,4 @@
+#Sun Dec 16 23:36:08 CET 2018
+base.0=C\:\\Users\\Erfan\\Desktop\\stuff\\Games\\a-stupid-game\\Export2\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

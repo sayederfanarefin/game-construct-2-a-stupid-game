@@ -1,0 +1,16 @@
+{
+  "name": "info.sayederfanarefin.spinningescape",
+  "version": "1.0.0.0",
+  "displayName": "Spinning Escape",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^7.1.4"
+  }
+}
