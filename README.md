@@ -11,7 +11,7 @@ Future work:
  - Unlimited levels
  - level difficulties well distribute
  - user profiles
- 
+ - integrate ads
  Video: 
 
 [![Demo video](https://img.youtube.com/vi/ZkD_GUFjwM8/0.jpg)](https://www.youtube.com/watch?v=ZkD_GUFjwM8)
