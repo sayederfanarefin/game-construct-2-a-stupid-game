@@ -1,5 +1,5 @@
 # Spinning Escape
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![HitCount](http://hits.dwyl.io/sayederfanarefin/game-construct-2-a-stupid-game.svg)](http://hits.dwyl.io/sayederfanarefin/game-construct-2-a-stupid-game)
 
 A game developed in construct 2. 
 
